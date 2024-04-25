@@ -1,0 +1,239 @@
+@media (max-width:1440px){
+    .py-100 {
+	padding-bottom: 90px;
+	padding-top: 90px;
+}
+    .pb-100{padding-bottom: 90px;}
+.pt-100{padding-top: 90px;}
+}
+@media (max-width:1199px){
+    .navbar-brand img {
+	max-width: 159px;
+}
+    h1 {
+	font-size: 40px;
+}
+    .history-left img {
+	width: 247px;
+}
+    .history-left::before {
+	top: -33px;
+	left: 160px;
+	background-size: 70%;
+}
+    .py-100 {
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+    .pb-100{padding-bottom: 90px;}
+.pt-100{padding-top: 80px;}
+    h2 {
+	font-size: 30px;
+}
+    .art-content h5 {
+	padding: 0px 0px;
+}
+    .article-box {
+	max-width: 100%;
+}
+}
+@media (max-width:991px){
+   .py-100 {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+    .pb-100{padding-bottom: 50px;}
+.pt-100{padding-top: 50px;}
+
+    .home-banner {
+	height: 480px;
+}
+    .history-heading {
+	padding: 20px;
+	margin-bottom: 0px;
+}
+    .history-heading h4 {
+	font-weight: 600;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+    .home-banner p {
+	margin-bottom: 20px;
+}
+    .common-btn {
+	padding: 7px 35px;
+	font-size: 16px;
+}
+    h1 {
+	font-size: 35px;
+}
+    .history-left {
+	left: 110px;
+	margin-bottom: 120px;
+}
+    .history-right h6,.history-right h2 {
+	text-align: center;
+}
+.art-img img {
+	height: 226px;
+	object-fit: cover;
+	width: 100%;
+}
+.art-content h5 {
+	margin-bottom: 20px;
+}
+.art-img {
+	margin-bottom: 20px;
+}
+.contact-box {
+	padding: 60px 30px;
+}
+}
+
+@media (max-width:767px){
+    .home-banner {
+	height: 420px;
+}
+    .arc1 {
+	top: 40px;
+	max-width: 50px;
+}
+    .arc2 {
+	bottom: 40px;
+	max-width: 50px;
+}
+    .history-heading {
+	top: -50px;
+}
+    .history-left {
+	left: 0;
+}
+    .history-right::before {
+	background-size: 70%;
+}
+    .video-box img {
+	max-width: 520px;
+}
+    .contact-sec iframe {
+	height: 260px;
+}
+    .text-center.video-txt p {
+	max-width: 100%;
+	padding: 0;
+}
+    .bottom-foot {
+	margin-top: 0px;
+	padding: 30px 0px;
+}
+}
+@media (max-width:575px){
+    h1 {
+	font-size: 30px;
+}
+    .py-100 {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+    .pb-100{padding-bottom: 40px;}
+.pt-100{padding-top: 40px;}
+    .text-center.video-txt {
+	position: static;
+}
+    h2 {
+	font-size: 25px;
+}
+.text-center.video-txt h5 {
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+   .video-box.text-center {
+	position: static;
+	margin-bottom: 20px;
+}
+    .video-sec {
+	margin-top: 0;
+	padding: 40px 0px;
+}
+    .common-head {
+	margin-bottom: 40px;
+}
+    .site-footer {
+	padding-top: 40px;
+}
+    .bottom-foot p {
+	font-size: 13px;
+}
+}
+@media (max-width:479px){
+    .black-star {
+	top: 130px;
+}
+    .video-box img {
+	max-width: 360px;
+}
+    .home-banner {
+	height: 370px;
+}
+    .home-banner::after {
+	display: none;
+}
+    h1 {
+	font-size: 25px;
+}
+    .history-heading h4 {
+	font-weight: 400;
+	font-size: 13px;
+	margin-bottom: 10px;
+}
+    .history-heading {
+	padding: 15px;
+}
+    .common-btn {
+	padding: 4px 25px;
+	font-size: 14px;
+}
+    .home-banner p {
+	margin-bottom: 15px;
+	font-size: 14px;
+}
+    .history-left img {
+	width: 177px;
+}
+    .history-left::before {
+	display: none;
+}
+    .contact-box {
+	padding: 40px 15px;
+}
+    .common-head h6 {
+	margin-bottom: 10px;
+}
+    .top-head ul li {
+	font-size: 13px;
+}
+    .top-head i {
+	font-size: 13px;
+}
+    .text-center.video-txt h5 {
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+    .text-center.video-txt p {
+	margin: 16px auto;
+
+}
+    .logo-sec ul li {
+	padding-right: 40px;
+}
+}
+@media (max-width:359px){
+    .top-head ul li {
+	font-size: 11px;
+}
+    .history-left img {
+	width: 134px;
+}
+    .video-box img {
+	max-width: 270px;
+}
+}
